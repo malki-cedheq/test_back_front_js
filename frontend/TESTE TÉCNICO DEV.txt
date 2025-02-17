@@ -1,0 +1,8 @@
+Leia backend\readme.md para entender a api
+Leia o frontend\readme.md para entender o comportamento do front.
+
+Identifique erros e corrija o arquivo frontend\index.html
+e replique o teste de todos os endpoints da API via frontend
+seguindo o exemplo de teste de endpoints apresentado no arquivo backend\readme.md
+
+O código contem 04 erros.
