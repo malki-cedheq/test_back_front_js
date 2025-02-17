@@ -1,11 +1,16 @@
-```markdown
 # Frontend para Gerenciamento de Usuários
 
 Este projeto contém a interface frontend para interagir com a API de gerenciamento de usuários. Ele permite criar, atualizar, obter, listar e deletar usuários através de formulários simples feitos em HTML e JavaScript.
 
 ## Como Executar o Frontend
 
-1. Clone ou baixe este repositório.
+## Instalação e Execução
+1. Clone este repositório:
+   ```sh
+   git clone https://github.com/malki-cedheq/test_back_front_js.git
+   cd test_back_front_js
+   cd frontend
+   ```
 
 2. Abra o arquivo `index.html` em um navegador da sua escolha.
 
@@ -53,4 +58,3 @@ O frontend utiliza JavaScript para enviar requisições HTTP para a API backend.
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
-```

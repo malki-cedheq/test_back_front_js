@@ -1,4 +1,3 @@
-```markdown
 # User Management API
 
 ## Descrição
@@ -12,8 +11,9 @@ Esta é uma API REST simples para gerenciamento de usuários, desenvolvida com E
 ## Instalação e Execução
 1. Clone este repositório:
    ```sh
-   git clone <URL_DO_REPOSITORIO>
-   cd <NOME_DO_DIRETORIO>
+   git clone https://github.com/malki-cedheq/test_back_front_js.git
+   cd test_back_front_js
+   cd backend
    ```
 
 2. Instale as dependências:
@@ -123,4 +123,3 @@ Esta é uma API REST simples para gerenciamento de usuários, desenvolvida com E
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
-```
